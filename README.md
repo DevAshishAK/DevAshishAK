@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Ashish%20Kamble&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Senior%20Java%20Developer%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descAlignY=58&descSize=18" alt="Ashish Kamble banner" width="100%"/>
+<img src="assets/banner.svg" alt="Ashish Kamble, Senior Java Developer" width="100%"/>
 
 <a href="https://github.com/DevAshishAK/DevAshishAK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=7+years+building+scalable+microservices;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+Azure;Fintech+%26+HR-Tech+products;Growing+toward+Staff+%2F+Lead+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=7+years+building+scalable+microservices;Java+%7C+Spring+Boot+%7C+Microservices;Fintech+%26+HR-Tech+products;Growing+toward+Lead+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamble-ashish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5233ashish@gmail.com)
 ![Location](https://img.shields.io/badge/Pune-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=DevAshishAK&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -127,7 +126,7 @@ I like the full lifecycle: API design, data modelling, containerisation, cloud d
  ─────                                   ────
  Java · Spring Boot · AKS/Azure   ───►   Event-driven systems (Kafka, RabbitMQ)
  Microservices ownership          ───►   System design & architecture
- Production support & RCA         ───►   Technical leadership (Staff / Lead)
+ Production support & RCA         ───►   Technical leadership (Senior / Lead)
 ```
 
 ---
