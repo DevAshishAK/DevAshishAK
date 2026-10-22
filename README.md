@@ -10,10 +10,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamble--ashish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamble-ashish)
-[![Email](https://img.shields.io/badge/Email-5233ashish%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5233ashish@gmail.com)
-![Location](https://img.shields.io/badge/Pune-India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamble-ashish)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5233ashish@gmail.com)
+![Location](https://img.shields.io/badge/Pune-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=DevAshishAK&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
