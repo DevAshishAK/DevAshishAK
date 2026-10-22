@@ -4,9 +4,7 @@
 
 <img src="assets/banner.svg" alt="Ashish Kamble, Senior Java Developer" width="100%"/>
 
-<p align="center"> <img src="assets/intro.svg" alt="7+ years building scalable microservices | Java, Spring Boot, Microservices | Fintech and HR-Tech products | Growing toward Lead Engineer" width="640"/> </p>
-
-<br/>
+<p align="center"> <img src="assets/intro.svg" alt="7+ years building scalable microservices | Java, Spring Boot, Microservices | Fintech and HR-Tech products | Growing toward Lead/Senior Engineer" width="640"/> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamble-ashish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5233ashish@gmail.com)
