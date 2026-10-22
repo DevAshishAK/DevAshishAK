@@ -4,9 +4,7 @@
 
 <img src="assets/banner.svg" alt="Ashish Kamble, Senior Java Developer" width="100%"/>
 
-<a href="https://github.com/DevAshishAK/DevAshishAK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=7+years+building+scalable+microservices;Java+%7C+Spring+Boot+%7C+Microservices;Fintech+%26+HR-Tech+products;Growing+toward+Lead+Engineer" alt="Typing SVG" />
-</a>
+<p align="center"> <img src="assets/intro.svg" alt="7+ years building scalable microservices | Java, Spring Boot, Microservices | Fintech and HR-Tech products | Growing toward Lead Engineer" width="640"/> </p>
 
 <br/>
 
